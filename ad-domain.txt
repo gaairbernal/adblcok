@@ -10858,8 +10858,6 @@
 #[2o7.net]
 0.0.0.0 2o7.net
 #[marca.com]
-0.0.0.0 anapixel.marca.com
-0.0.0.0 pixelcounter.marca.com
 #[psg.nexstardigital.net]
 0.0.0.0 ccpa.psg.nexstardigital.net
 0.0.0.0 segment.psg.nexstardigital.net
