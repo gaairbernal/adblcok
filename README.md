@@ -1,0 +1,2 @@
+# adblcok
+black list domains
