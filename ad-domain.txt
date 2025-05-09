@@ -20134,5 +20134,6 @@
 0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 register.appsflyersdk.com
+0.0.0.0 register.appsflyersdk.com 
+0.0.0.0 cdnbo.org
 # CNAME Popup
