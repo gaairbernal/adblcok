@@ -20136,4 +20136,5 @@
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 register.appsflyersdk.com 
 0.0.0.0 cdnbo.org
+0.0.0.0 akurei.cdnbo.org
 # CNAME Popup
