@@ -130,9 +130,6 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
-#[googletagmanager.com]
-0.0.0.0 googletagmanager.com
-0.0.0.0 www.googletagmanager.com
 #[googletagservices.com]
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
@@ -6412,12 +6409,6 @@
 0.0.0.0 proper.io
 0.0.0.0 s2s.proper.io
 0.0.0.0 www.proper.io
-#[ads.linkedin.com]
-0.0.0.0 ads.linkedin.com
-0.0.0.0 dc.ads.linkedin.com
-0.0.0.0 itag.ads.linkedin.com
-0.0.0.0 px.ads.linkedin.com
-0.0.0.0 px4.ads.linkedin.com
 #[consumable.com]
 0.0.0.0 consumable.com
 0.0.0.0 demos.consumable.com
