@@ -8,7 +8,3 @@ Para más información, reporte de anuncios no bloqueados o problemas, puedes vi
 - [Repositorio GitHub](https://github.com/bigdargon/hostsVN)
 - [Reportar problemas](https://github.com/bigdargon/hostsVN/issues)
 - [Descarga directa](https://github.com/bigdargon/hostsVN/raw/master/hosts)
-
----
-**Importante:** Todos los dominios han sido recolectados de fuentes libres y abiertas.
-````
